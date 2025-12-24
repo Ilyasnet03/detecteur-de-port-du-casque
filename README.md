@@ -18,3 +18,6 @@ Installez les dépendances : pip install tensorflow opencv-python gradio.
 Lancez le notebook pour entraîner ou charger le modèle .keras.
 
 Utilisez l'interface Gradio pour tester vos propres images.
+<img width="1888" height="666" alt="Image" src="https://github.com/user-attachments/assets/583db605-9996-49e7-a27d-7fff4d2f9e15" />
+
+<img width="1906" height="616" alt="Image" src="https://github.com/user-attachments/assets/48fea987-2abe-4289-ac38-41e00a8b90eb" />
